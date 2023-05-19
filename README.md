@@ -13,4 +13,12 @@ DHTstable - Rob Tillaart
 WiFiNINA – Arduino
 Blynk - Volodymyr
 
-![image](https://github.com/copaland/ESP8266_D1R2/assets/17757678/ab7252f3-d199-4de7-95ef-173bfc8e7ddf)
+
+### 포트표
+![image](https://github.com/copaland/ESP8266_D1R2/blob/main/d1r2/img/d1r2_port.png)
+
+### IoT 스위치
+![image](https://github.com/copaland/ESP8266_D1R2/blob/main/d1r2/img/iot_thBlynk_iotSW.png)
+
+### 온습도 모니터링
+![image](https://github.com/copaland/ESP8266_D1R2/blob/main/d1r2/img/iot_thBlynk_temp.png)
